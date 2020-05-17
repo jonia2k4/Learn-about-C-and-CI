@@ -9,4 +9,5 @@ install:
 
 script:
 - echo "Reached Script Section"
+- gcc initial_code.c -o output
 - ./output
